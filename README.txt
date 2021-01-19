@@ -4,7 +4,8 @@ package    version
 Pyganim     0.9.2
 pygame      2.0.1
 
-
+You can download all files together from this link: https://yadi.sk/d/3yebhVM8XhuslQ
+Or download only data: https://yadi.sk/d/E5O0kjTorOa2yw
 
 About game:
 >> Creatures <<
