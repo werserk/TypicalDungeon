@@ -1,7 +1,12 @@
+python version 3.8
+
+package    version
+Pyganim     0.9.2
+pygame      2.0.1
 
 
 
-
+About game:
 >> Creatures <<
 [SPEED] - the higher speed, the faster it can start attacking.
 [HP] - health points that have creature.
@@ -20,3 +25,4 @@ waiting for you to defeat
 >> Shop <<
 - By an essence of soul to get a creature
 
+Check your luck and collect all creatures!
